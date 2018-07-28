@@ -1,0 +1,8 @@
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\RegistroMultas\bin\Debug\netstandard1.4\RegistroMultas.deps.json
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\RegistroMultas\obj\Debug\netstandard1.4\RegistroMultas.vbprojAssemblyReference.cache
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\RegistroMultas\obj\Debug\netstandard1.4\RegistroMultas.vbproj.CoreCompileInputs.cache
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\RegistroMultas\obj\Debug\netstandard1.4\RegistroMultas.AssemblyInfo.vb
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\RegistroMultas\bin\Debug\netstandard1.4\RegistroMultas.dll
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\RegistroMultas\bin\Debug\netstandard1.4\RegistroMultas.pdb
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\RegistroMultas\obj\Debug\netstandard1.4\RegistroMultas.dll
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\RegistroMultas\obj\Debug\netstandard1.4\RegistroMultas.pdb

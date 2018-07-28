@@ -1,0 +1,14 @@
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\EntidadesTest\obj\Debug\EntidadesTest.vbprojAssemblyReference.cache
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\EntidadesTest\obj\Debug\EntidadesTest.Resources.resources
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\EntidadesTest\obj\Debug\EntidadesTest.vbproj.GenerateResource.cache
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\EntidadesTest\obj\Debug\EntidadesTest.vbproj.CoreCompileInputs.cache
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\EntidadesTest\bin\Debug\EntidadesTest.exe.config
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\EntidadesTest\bin\Debug\EntidadesTest.exe
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\EntidadesTest\bin\Debug\EntidadesTest.pdb
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\EntidadesTest\bin\Debug\EntidadesTest.xml
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\EntidadesTest\bin\Debug\RegistroMultas.dll
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\EntidadesTest\bin\Debug\RegistroMultas.pdb
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\EntidadesTest\obj\Debug\EntidadesTest.vbproj.CopyComplete
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\EntidadesTest\obj\Debug\EntidadesTest.exe
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\EntidadesTest\obj\Debug\EntidadesTest.xml
+C:\Users\Romina\Documents\ProyectosVisual\RegistroMultas\EntidadesTest\obj\Debug\EntidadesTest.pdb
